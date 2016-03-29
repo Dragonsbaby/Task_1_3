@@ -1,0 +1,49 @@
+*{padding:0; margin:0;}
+.wrap_box {
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #999;
+    background: #eee;
+    height: 800px;
+}
+.logo{
+    float:left;
+    width:200px;
+    border: 1px solid #999;
+    padding:20px;
+    margin-left:20px;
+}
+.img{float:left;}
+.logo img{
+    vertical-top:0;
+    height:82px;
+    width:82px;
+    border: 1px solid #999;
+}
+.name{float:left; margin-left:20px;}
+.ourteam{
+    padding:20px;
+    float:left;
+    height:auto;
+    wdith:auto;
+    margin-left:40px;
+    border: 1px solid #999;
+}
+.content{
+    margin:15px 0;
+}
+.photo{
+    margin-left:40px;
+    width:120px;
+    height:auto;
+    float:left;
+    border: 1px solid #999;
+    padding:20px;
+}
+.photo img{
+    height:82px;
+    width:82px;
+    border: 1px solid #999;
+    margin-bottom:20px;
+    margin-left:18px;
+}
